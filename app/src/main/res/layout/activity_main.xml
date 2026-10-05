@@ -4,8 +4,19 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
     android:orientation="vertical"
-
     tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textSize="42sp"
+        android:background="#dedede"
+        android:gravity="bottom|right"
+        android:text="@string/wynik" />
+
+    
+
+
 </LinearLayout>

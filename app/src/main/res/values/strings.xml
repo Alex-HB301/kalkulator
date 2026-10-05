@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">kalkulator</string>
+    <string name="wynik">placholder</string>
 </resources>
